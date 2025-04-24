@@ -1,1 +1,3 @@
 task one to do
+adding few more lines
+if a repo is created as private it wont do adding in git
